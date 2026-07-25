@@ -1,14 +1,12 @@
 {
   "latest_version_code": 520,
   "version_name": "5.2.6",
-  "update_message": "🎉 All fixed! BreathWave version 5.2.7 is now available.",
-  "apk_url": "https://github.com/proediter00-ai/BreathWave/releases/download/v5.2.7/breathwave.apk.apk",
-  "apk_size": "75.1 MB",
-  "image_url": "",
-  "release_date": "2026-07-23",
+  "update_message": "A new version of Breathwave is available!",
+  "telegram_url": "https://t.me/breathwave_music_app",
+  "apk_url": "https://github.com/proediter00-ai/BreathWave/releases/latest",
+  "release_date": "2026-07-25",
   "changelog": [
-    "⚡ All fixed",
-    "🔄 In-app update download",
-    "🚀 Performance improvements"
+    "⚡ Performance improvements",
+    "🐛 Bug fixes"
   ]
 }
